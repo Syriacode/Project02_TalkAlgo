@@ -7,6 +7,7 @@ We were interested in combining a technical analysis of a stock with the overall
 
 ## Plan of Action
 **What was our goal?** To test the effectiveness of Natural Language Processing (NLP) in supplementing Algorithmic Trading Decisions.
+
 **Steps**
 1. Choose four stocks to use in different sectors, then others for comparison. 
 2. Determine the period combinations of moving averages we want to use.
@@ -20,6 +21,7 @@ We wanted to pick four starter tickers in different sectors such as:
 - **Cryptocurrency** - Bitcoin (BTC)
 - **Healthcare** - Moderna (MRNA)
 - **Bonds** - Ten Year Treasury Bond (TNX)
+
 Then we added other stocks to use in our models such as: Amazon (AMZN), Facebook (FB), Gold (GOLD), Google (GOOG), JPMorgan Chase & Co. (JPM), Mastercard (MA), Microsoft (MSFT), Silver (SLV), Tesla (TSLA), Twitter (TWTR), and Visa (V).
 
 ## Coding Development, Framework, and Implementation
@@ -40,10 +42,8 @@ We used the following results in our presentation.
 
 ### Apple (AAPL) - 04/07/2020
 ![Apple Results](AAPL.jpg)
-
 ### Moderna (MRNA) - 10/19/2020
 ![Moderna Results](MRNA.jpg)
-
 ### Facebook (FB) - 11/08/2019
 ![Facebook Results](FB.jpg)
 
